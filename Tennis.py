@@ -1,6 +1,5 @@
 # Créé par Waîl Yeager, le 15/01/2024 en Python 3.7
 import pyxel
-import random
 
 class Jeu:
     def __init__(self):
